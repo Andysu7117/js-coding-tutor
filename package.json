@@ -1,0 +1,24 @@
+{
+  "name": "js-coding-tutor",
+  "version": "1.0.0",
+  "description": "JS Coding Tutot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andysu7117/js-coding-tutor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andysu7117/js-coding-tutor/issues"
+  },
+  "homepage": "https://github.com/Andysu7117/js-coding-tutor#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "inquirer": "^8.2.4",
+    "langchain": "^0.0.122"
+  }
+}
